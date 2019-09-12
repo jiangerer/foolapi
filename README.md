@@ -1,7 +1,6 @@
 ## 环境
 
-> 环境：httpclient+jsonpath+testng+ExtentReport(jdk8)  
-> demo中的用例以百度的api store为例（具体查看：[百度api商城](http://apistore.baidu.com/)）
+> 环境：httpclient+jsonpath+testng+ExtentReport(jdk8)
 
 ## 运行
 1. IDE工具直接执行testng.xml(以testng形式运行)即可（ide工具需要先装好testng插件）。
